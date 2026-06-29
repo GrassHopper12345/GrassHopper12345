@@ -49,7 +49,7 @@ Git · Bitbucket · Jira · AWS
 
 ## 🚀 Portfolio & Contact
 
-- 🌐 **Portfolio:** [sparkly-cranachan-9f0864.netlify.app](https://sparkly-cranachan-9f0864.netlify.app)
+- 🌐 **Portfolio:** [brianhopperdev.com](brianhopperdev.com)
 - 💼 **LinkedIn:** [linkedin.com/in/mrhopper](https://linkedin.com/in/mrhopper)
 - 📧 **Email:** brian.hopper@live.com
 
