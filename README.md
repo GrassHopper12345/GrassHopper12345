@@ -38,11 +38,11 @@ Git · Bitbucket · Jira · AWS
 ## 🧠 Background
 
 - 🎖️ **US Navy** — Aviation Ordnance (5 years)
-- 🔬 **Clinical Laboratory** — Histotechnologist (ASCP)cm, Ochsner LSU Health
-- 📊 **Healthcare Operations** — Project Lead, Lean Six Sigma process improvement
-- 💻 **Software Engineering** — Full-stack development, production web applications
+- 🔬 **Clinical Laboratory** — Histotechnologist (ASCP)cm, Ochsner LSU Health (5 years)
+- 📊 **Healthcare Operations** — Project Lead, Lean Six Sigma process improvement (4 years)
+- 💻 **Software Engineering** — Full-stack development & Project Lead, production web applications (4+ years)
 
-**Certifications:** Lean Six Sigma Black Belt · Scrum Master · Lean Practitioner  
+**Certifications:** Lean Six Sigma Green Belt · Scrum Master · Lean Practitioner  
 **Education:** MBA (Project Management) · M.H.S. · B.S. Cellular & Molecular Biology — LSU Shreveport
 
 ---
